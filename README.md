@@ -21,3 +21,11 @@ Welcome to the Weather Web Project! This web application is your gateway to real
 - **Location Search: Quickly find weather information for any city or region by entering your desired location in the search bar.**
 
 - **Interactive Map: Explore weather conditions globally through an interactive map featuring location markers.**
+
+- ## Getting Started
+- Ready to start using the Weather Web Project? Follow these steps:
+- 1. Clone the repository to your local machine:
+    ```bash
+   git clone https://github.com/nitish0971/Weather-Web-App.git
+    
+- 2. Open the project directory in your preferred code editor.
