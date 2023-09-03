@@ -1,5 +1,7 @@
 # Weather-Web-App
 
+![Watch the video]([video_url](https://github.com/nitish0971/Weather-Web-App/assets/101696149/335ecefd-364b-4d35-a8e5-dafae07261ff))
+
 ## Table of Contents
 
 - **Introduction**
