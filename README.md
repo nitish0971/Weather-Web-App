@@ -22,19 +22,19 @@ Welcome to the Weather Web Project! This web application is your gateway to real
 
 - **Interactive Map: Explore weather conditions globally through an interactive map featuring location markers.**
 
-- ## Getting Started
+## Getting Started
 - Ready to start using the Weather Web Project? Follow these steps:
-1. Clone the repository to your local machine:
+- Clone the repository to your local machine:
     ```bash
    git clone https://github.com/nitish0971/Weather-Web-App.git
     
-2. Open the project directory in your preferred code editor.
+- Open the project directory in your preferred code editor.
 
-3. Personalize the project by adding your branding, logo, or additional features to suit your needs.
+- Personalize the project by adding your branding, logo, or additional features to suit your needs.
 
-4. If you haven't already, sign up for an API key from OpenWeatherMap and replace the placeholder API key in the JavaScript code with your actual API key.
+- If you haven't already, sign up for an API key from OpenWeatherMap and replace the placeholder API key in the JavaScript code with your actual API key.
 
-5. Run the project locally using a development server or open the index.html file in your web browser.
+- Run the project locally using a development server or open the index.html file in your web browser.
 
 ## Usage
 - Upon launching the application, you'll see current weather conditions for a default location (e.g., your city if specified in the code or a predefined location).
